@@ -79,5 +79,5 @@ The regular [policies](https://ubc-mds.github.io/policies/) hold during the caps
 - [Opinionated Analysis Development](https://peerj.com/preprints/3210.pdf)
 - [The Art of Data Science](https://leanpub.com/artofdatascience)
 - [Calling Bullshit in the Age of Big Data](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) (video series)
-- [Multiprocessing with Python](multiprocessing_with_python.md)
-- [Running remote Jupyter notebooks](running_remote_jp_notebooks.md)
+- [Multiprocessing with Python](resources/multiprocessing_with_python.md)
+- [Running remote Jupyter notebooks](resources/running_remote_jp_notebooks.md)
