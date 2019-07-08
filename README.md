@@ -64,7 +64,7 @@ For more information on each deliverable, see the descriptions in the [deliverab
 
 | Date        | Event | Location | 
 |-------------|-----------|------|
-| Tuesday-Wednesday April 23-24, 2019 | Hackathon<ul><li>[team work and code of conduct session](https://github.ubc.ca/MDS-2018-19/DSCI_591_capstone-proj_students/blob/master/coc_n_teamwork.md) | ORCH 3018 and ORCH 3074 |
+| Tuesday-Wednesday April 23-24, 2019 | Hackathon<ul><li>[team work and code of conduct session](coc_n_teamwork.md) | ORCH 3018 and ORCH 3074 |
 | Friday April 26, 2019 from 2-4 pm | Proposal Presentations | ORCH 4018 and 3074 |
 | Fridays from 2-4 pm | Capstone Seminar Series |  DMP 301 |
 | Monday-Tuesday June 17-18, 2019 from 9am - 3pm | Final Presentations | DMP 301 (Monday) and ORCH 4074 (Tuesday)  |
