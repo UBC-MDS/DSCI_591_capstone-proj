@@ -21,7 +21,7 @@ By the end of the course, students are expected to be able to:
 
 The general steps involved in this capstone course are:
 
-1. After the Capstone fair, you will rate/rank [the project proposals](project-proposals). You will then be assigned to a project/team. These assignments will be based mainly on the ratings but the instructors may influence the assignments in order to create teams that we think will work together effectively.
+1. After the Capstone fair, you will rate/rank the project proposals. You will then be assigned to a project/team. These assignments will be based mainly on the ratings but the instructors may influence the assignments in order to create teams that we think will work together effectively.
 1. Meet with your MDS mentor and the Capstone partner (_before_ the course start date). Establish regular meetings.
 2. __Propose__ the data product and approach. (~__2 weeks__)
     1. Work with your team, colleagues, and mentors to develop an approach in a 2-day hackathon.
