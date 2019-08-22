@@ -58,3 +58,8 @@ Below,	briefly	describe	the	specific	contribution(s)	each	team	member (**includi
     - what was your role in the group? That is, what sort of things did you do to contribute to the evolution of the project?
     - what were the roles of others in your group?
 - what went well and poorly throughout the team project experience?
+
+
+#### Attribution:
+
+This team work document was derived from similar documents created for the University of British Columbia's SCIE 300 (by Eric Jandciu, Jackie Stewart and Bruce Dunham) and STAT 404 (by Will Welch)
