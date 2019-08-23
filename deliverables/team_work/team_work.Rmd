@@ -62,4 +62,8 @@ Below,	briefly	describe	the	specific	contribution(s)	each	team	member (**includi
 
 #### Attribution:
 
-This team work document was derived from similar documents created for the University of British Columbia's SCIE 300 (by Eric Jandciu, Jackie Stewart and Bruce Dunham) and STAT 404 (by Will Welch)
+This team work document was derived from similar documents created for the University of British Columbia's SCIE 300 (by Eric Jandciu, Jackie Stewart and Bruce Dunham) and STAT 404 (by Will Welch). The SCIE 300 team work document was derived from Baker et at., 2008.
+
+#### References
+
+Baker, D. (2008). Peer assessment in small groups: A comparison of methods. Journal of Management Education, 32(2), 183.
